@@ -1,0 +1,5 @@
+[
+{"id":1,"res":"Role/rifle","atk":5,"tips":"步兵阿黄","lockMoney":100,"type":1,"hitEff":"eff/1"},
+{"id":2,"res":"Role/heavy","atk":10,"tips":"机枪手大壮","lockMoney":500,"type":2,"hitEff":"eff/1"},
+{"id":3,"res":"Role/knife","atk":10,"tips":"匕首小刚","lockMoney":0,"type":2,"hitEff":"eff/1"}
+]

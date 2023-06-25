@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"SceneImg/SceneForest","name":"树林","tips":"一片寂静的树林","sceneName":"GameScene1"},
+{"id":2,"imgRes":"SceneImg/SceneGraveyard","name":"墓地","tips":"一片荒凉的墓地","sceneName":"GameScene2"},
+{"id":3,"imgRes":"SceneImg/SceneChurch","name":"教堂","tips":"一座寂静的教堂","sceneName":"GameScene3"}
+]

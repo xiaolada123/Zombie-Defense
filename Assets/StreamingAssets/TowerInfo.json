@@ -1,0 +1,14 @@
+[
+  {"id":1,"name":"加农炮1","money":100,"atk":5,"atkRange":8,"intervalTime":1,"nextLev":2,"atkType":1,"eff":"eff/Fire1","res":"Tower/1_1"},
+  {"id":2,"name":"加农炮2","money":150,"atk":10,"atkRange":8,"intervalTime":1,"nextLev":3,"atkType":1,"eff":"eff/Fire1","res":"Tower/1_2"},
+  {"id":3,"name":"加农炮3","money":200,"atk":20,"atkRange":8,"intervalTime":1,"nextLev":0,"atkType":1,"eff":"eff/Fire1","res":"Tower/1_3"},
+  {"id":4,"name":"加特林1","money":200,"atk":2,"atkRange":12,"intervalTime":0.3,"nextLev":5,"atkType":1,"eff":"eff/Fire1","res":"Tower/2_1"},
+  {"id":5,"name":"加特林2","money":250,"atk":4,"atkRange":12,"intervalTime":0.3,"nextLev":6,"atkType":1,"eff":"eff/Fire1","res":"Tower/2_2"},
+  {"id":6,"name":"加特林3","money":300,"atk":8,"atkRange":12,"intervalTime":0.3,"nextLev":0,"atkType":1,"eff":"eff/Fire1","res":"Tower/2_3"},
+  {"id":7,"name":"电磁炮1","money":500,"atk":10,"atkRange":15,"intervalTime":1.5,"nextLev":8,"atkType":1,"eff":"eff/Fire2","res":"Tower/3_1"},
+  {"id":8,"name":"电磁炮2","money":600,"atk":15,"atkRange":15,"intervalTime":1.5,"nextLev":9,"atkType":1,"eff":"eff/Fire2","res":"Tower/3_2"},
+  {"id":9,"name":"电磁炮3","money":700,"atk":20,"atkRange":15,"intervalTime":1.5,"nextLev":0,"atkType":1,"eff":"eff/Fire2","res":"Tower/3_3"},
+  {"id":10,"name":"磁暴线圈1","money":700,"atk":5,"atkRange":8,"intervalTime":3,"nextLev":11,"atkType":2,"eff":"eff/Fire3","res":"Tower/4_1"},
+  {"id":11,"name":"磁暴线圈2","money":800,"atk":10,"atkRange":8,"intervalTime":3,"nextLev":12,"atkType":2,"eff":"eff/Fire3","res":"Tower/4_2"},
+  {"id":12,"name":"磁暴线圈3","money":1000,"atk":20,"atkRange":8,"intervalTime":3,"nextLev":0,"atkType":2,"eff":"eff/Fire3","res":"Tower/4_3"}
+]
